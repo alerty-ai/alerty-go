@@ -57,7 +57,6 @@ alerty.Start(alerty.AlertyServiceConfig{
     Name:        "your-service-name",
     Version:     "1.0.0",
     Environment: "production",
-    IngestURL:   "http://your-collector-endpoint",
 })
 ```
 
