@@ -23,7 +23,7 @@ Import the package and use it in your application to capture and report errors:
 ```go
 import (
     "errors"
-    "github.com/alerty-ai/alerty-go"
+    "github.com/alerty-ai/alerty-go/pkg/alerty"
 )
 
 func main() {
